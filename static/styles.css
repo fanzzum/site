@@ -1,0 +1,30 @@
+.head
+{
+    color:#C6D4E9;
+   
+    text-align: center;
+}
+body
+{
+    background-color:#101111;
+    color:#C6D4E9;
+}
+.form
+{
+    width: 200px; /* Set the width of each form */
+    display: inline-block; /* Display forms inline */
+    vertical-align: top; /* Align forms to the top */
+    margin: 0 20px; /* Add some horizontal margin between the forms */
+    m
+
+}
+.form-container {
+    text-align: center; /* Center align the forms */
+    margin: 0 auto; /* Center the container horizontally */
+    width: fit-content; /* Adjust the container width based on content */
+}
+.form-container2 {
+    text-align: center; /* Center align the forms */
+    margin: 30px auto; /* Center the container horizontally */
+    width: fit-content; /* Adjust the container width based on content */
+}
